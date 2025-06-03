@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutsarperuzun&label=Profile%20views&color=0e75b6&style=flat" alt="umutsarperuzun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutsarperuzun" alt="umutsarperuzun" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutsarperuzun&no-bg=true&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Repositories,Followers" alt="umutsarperuzun" /></a></p>
 
 - 🔭 I’m currently working on [Django-based Portfolio Website](https://github.com/umutsarperuzun/django_portfolio)
 
