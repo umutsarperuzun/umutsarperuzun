@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/umutsarperuzun](https://github.com/umutsarperuzun)
 
-- 📝 I regularly write articles on [Coming soon!](Coming soon!)
+- 📝 I regularly write articles on Coming soon!
 
 - 💬 Ask me about **React, Django, Tailwind CSS, OAuth2 integration, REST APIs**
 
