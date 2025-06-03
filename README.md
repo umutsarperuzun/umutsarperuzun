@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sarperuzun1@gmail.com**
 
-- 📄 Know about my experiences [[Download my general CV](https://github.com/umutsarperuzun/Resume/raw/main/Umut-Sarper-Uzun-CV.pdf)]([Download my general CV](https://github.com/umutsarperuzun/Resume/raw/main/Umut-Sarper-Uzun-CV.pdf))
+- 📄 Know about my experiences ([Download my general CV](https://github.com/umutsarperuzun/Resume/raw/main/Umut-Sarper-Uzun-CV.pdf))
 
 - ⚡ Fun fact **I built my first AI-powered chatbot before learning how to cook pasta properly 🍝🤖**
 
