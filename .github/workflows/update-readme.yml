@@ -3,7 +3,7 @@ name: Update README with Commit Count
 on:
   schedule:
     - cron: "0 0 * * *"   # her gece 00:00'da çalışır
-  workflow_dispatch:       # istersen manuel tetikleyebilirsin
+  workflow_dispatch:       # manuel çalıştırma opsiyonu
 
 jobs:
   update-readme:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # tüm commit geçmişini al
+          fetch-depth: 0   # tüm commit geçmişini al
 
       - name: Count commits
         run: echo "COMMITS=$(git rev-list --count --all)" >> $GITHUB_ENV
@@ -23,8 +23,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "sarperuzun1@gmail.com"
+          git config --local user.name "umutsarperuzun"
           git commit -am "Update commit count [skip ci]" || echo "No changes"
-          git push
-
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/umutsarperuzun/umutsarperuzun.git HEAD:main
