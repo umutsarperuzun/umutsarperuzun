@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umut Sarper</h1>
 <h3 align="center">A passionate full-stack developer from the UK, focused on Python, JavaScript, and modern web technologies.</h3>
 
+### My Total Commits
+TOTAL_COMMITS: 0
+
 - 🔭 I’m currently working on [Django-based Portfolio Website](https://github.com/umutsarperuzun/my_portfolio_project)
 
 - 🌱 I’m currently learning **Django advanced features, Tailwind CSS, React Testing Library**
