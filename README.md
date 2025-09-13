@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut Sarper</h1>
 <h3 align="center">A passionate full-stack developer from the UK, focused on Python, JavaScript, and modern web technologies.</h3>
 
-### My Total Commits
+### My Daily Commits
 TOTAL_COMMITS: 20
 
 
